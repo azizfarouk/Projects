@@ -1,0 +1,43 @@
+[
+  {
+    "count": 41995,
+    "destination_airport": "ATL"
+  },
+  {
+    "count": 33392,
+    "destination_airport": "ORD"
+  },
+  {
+    "count": 32765,
+    "destination_airport": "DFW"
+  },
+  {
+    "count": 24462,
+    "destination_airport": "LAX"
+  },
+  {
+    "count": 24022,
+    "destination_airport": "DEN"
+  },
+  {
+    "count": 18985,
+    "destination_airport": "IAH"
+  },
+  {
+    "count": 18536,
+    "destination_airport": "PHX"
+  },
+  {
+    "count": 18159,
+    "destination_airport": "SFO"
+  },
+  {
+    "count": 16419,
+    "destination_airport": "LAS"
+  },
+  {
+    "count": 14167,
+    "destination_airport": "MCO"
+  }
+]
+  
